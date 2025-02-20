@@ -1,0 +1,28 @@
+2025-02-19 09:59:03 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2025-02-19 09:59:03 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
+2025-02-19 09:59:04 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
+2025-02-19 09:59:05 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
+2025-02-19 09:59:07 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2025-02-19 09:59:08 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2025-02-19 09:59:10 INFO  TC_002_LoginTest:45 -  Finished TC_002_LoginTest
+2025-02-19 10:14:27 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
+2025-02-19 10:14:28 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
+2025-02-19 10:14:29 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
+2025-02-19 10:14:31 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2025-02-19 10:14:32 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2025-02-19 10:14:33 INFO  TC_002_LoginTest:45 -  Finished TC_002_LoginTest
